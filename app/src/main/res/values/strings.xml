@@ -1,0 +1,11 @@
+<resources>
+    <string name="mainpage">첫화면</string>
+    <string name="calc">계산기화면</string>
+    <string name="music">플레이어</string>
+    <string name="app_name">CalcPratice</string>
+    <string name="equal"> = </string>
+    <string name="music1">음악1</string>
+    <string name="music2">음악2</string>
+    <string name="pause">일시정지</string>
+    <string name="stop">정지</string>
+</resources>
